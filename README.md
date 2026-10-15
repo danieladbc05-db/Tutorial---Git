@@ -31,6 +31,6 @@ Agregué los Capítulos 1, 2 y 3, en Word y PDF.
 DIFICULTADES
 
 - No pude crear el token por falta de acceso al correo de mi primera cuenta, así que creé una cuenta nueva de GitHub con un correo al que sí tenía acceso, un repositorio nuevo, y repetí la configuración y el clonado.
-- Se subieron archivos temporales de Word (`~$...`). Los eliminé del repositorio con git rm --cached.
+- Se subieron archivos temporales de Word (~$...). Los eliminé del repositorio con git rm --cached.
 - El git push fallaba con "Authentication failed". El token no era válido, generé uno nuevo con el permiso repo y funcionó.
   
